@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sarah Ahmadi
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  Blauw
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  Surface plane
+  hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,20 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.byfloor.nl
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/site1.jpg" width="375px" alt="homepage">
-  <img src="readme-images/site2.jpg" width="375px" alt="homepage">
-  <img src="readme-images/site3.jpg" width="375px" alt="homepage">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/site4.jpg" width="375px" alt="sieraden">
-  <img src="readme-images/site5.jpg" width="375px" alt="sieraden">
-  <img src="readme-images/site6.jpg" width="375px" alt="sieraden">
-  <img src="readme-images/site7.jpg" width="375px" alt="sale pagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
